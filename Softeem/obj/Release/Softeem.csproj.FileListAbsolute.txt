@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\Softeem.exe
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\Softeem.pdb
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\ChnCharInfo.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\NPinyin.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\NPOI.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Release\NPOI.xml
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Release\Softeem.MainForm.resources
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Release\Softeem.PicViewForm.resources
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Release\Softeem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Release\Softeem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Release\Softeem.exe
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Release\Softeem.pdb

@@ -1,0 +1,33 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\Softeem.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\Softeem.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\obj\Debug\Softeem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\obj\Debug\Softeem.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\obj\Debug\Softeem.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\obj\Debug\Softeem.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\obj\Debug\Softeem.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\NPOI.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\NPOI.OOXML.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\NPOI.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\obj\Debug\Softeem.MainForm.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\ChnCharInfo.dll
+c:\users\administrator\documents\visual studio 2013\Projects\Softeem\Softeem\bin\Debug\NPinyin.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.exe
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.pdb
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\Softeem.exe
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\Softeem.pdb
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\ChnCharInfo.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\NPinyin.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\bin\Debug\NPOI.xml
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.MainForm.resources
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.Properties.Resources.resources
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.PicViewForm.resources
+C:\Users\Administrator\Desktop\软帝证书生成器\Softeem\Softeem\obj\Debug\Softeem.csprojResolveAssemblyReference.cache
